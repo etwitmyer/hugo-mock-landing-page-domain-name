@@ -50,3 +50,5 @@ enableEmoji = true
 
 [params]
   mainMenuLogo = "images/new-logo.png"
+  [params.assets]
+    disableFingerprinting = true
