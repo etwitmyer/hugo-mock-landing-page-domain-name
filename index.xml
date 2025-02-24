@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ConexUs: Smart Contact Manager</title>
-    <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/</link>
+    <link>https://etwitmyer.github.io/hugo-mock-landing-page/</link>
     <description>Recent content on ConexUs: Smart Contact Manager</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <copyright>Open-source &lt;a class=&#34;text-muted text-decoration-none&#34; href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE&#34;&gt;MIT&lt;/a&gt; Licensed.</copyright>
+    <copyright>Emma Twitmyer</copyright>
     <lastBuildDate>Sun, 23 Feb 2025 23:31:37 -0500</lastBuildDate>
-    <atom:link href="https://filipecarneiro.github.io/hugo-bootstrap-theme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etwitmyer.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/about/</link>
+      <link>https://etwitmyer.github.io/hugo-mock-landing-page/post/about/</link>
       <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/post/about/</guid>
+      <guid>https://etwitmyer.github.io/hugo-mock-landing-page/post/about/</guid>
       <description>&lt;h1 id=&#34;welcome-to-conexus-&#34;&gt;Welcome to ConexUs 👥✨&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your smart contact management solution&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-is-conexus&#34;&gt;🚀 What is ConexUs?&lt;/h2&gt;&#xA;&lt;p&gt;ConexUs is a modern, AI-powered &lt;strong&gt;contact management tool&lt;/strong&gt; designed to help individuals and professionals stay effortlessly connected. It helps you:&lt;/p&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Track and manage relationships&lt;/strong&gt; with automatic reminders&lt;br&gt;&#xA;✅ &lt;strong&gt;Prepare for meetings&lt;/strong&gt; with AI-generated conversation summaries&lt;br&gt;&#xA;✅ &lt;strong&gt;Convert voice memos into notes&lt;/strong&gt; instantly&lt;br&gt;&#xA;✅ &lt;strong&gt;Sync contacts across devices&lt;/strong&gt; and calendars seamlessly&lt;/p&gt;&#xA;&lt;p&gt;With ConexUs, you’ll never lose touch with the people who matter most.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Bootstrap Carousel 🎠</title>
-      <link>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/bootstrap-carousel/</link>
+      <link>https://etwitmyer.github.io/hugo-mock-landing-page/page/bootstrap-carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://filipecarneiro.github.io/hugo-bootstrap-theme/page/bootstrap-carousel/</guid>
+      <guid>https://etwitmyer.github.io/hugo-mock-landing-page/page/bootstrap-carousel/</guid>
       <description>&lt;h1 id=&#34;bootstrap-carousel&#34;&gt;Bootstrap Carousel&lt;/h1&gt;&#xA;&lt;p&gt;A slideshow component for cycling through elements—images or slides of text — like a carousel.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/carousel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carousel documentation&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
