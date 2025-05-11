@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on ConexUs: Smart Contact Manager</title>
-    <link>https://etwitmyer.github.io/hugo-mock-landing-page/page/</link>
-    <description>Recent content in Docs on ConexUs: Smart Contact Manager</description>
+    <title>Docs on EmailGPT</title>
+    <link>https://etwitmyer.github.io/EmailGPT-Page/page/</link>
+    <description>Recent content in Docs on EmailGPT</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Emma Twitmyer</copyright>
-    <atom:link href="https://etwitmyer.github.io/hugo-mock-landing-page/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etwitmyer.github.io/EmailGPT-Page/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bootstrap Carousel 🎠</title>
-      <link>https://etwitmyer.github.io/hugo-mock-landing-page/page/bootstrap-carousel/</link>
+      <link>https://etwitmyer.github.io/EmailGPT-Page/page/bootstrap-carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://etwitmyer.github.io/hugo-mock-landing-page/page/bootstrap-carousel/</guid>
+      <guid>https://etwitmyer.github.io/EmailGPT-Page/page/bootstrap-carousel/</guid>
       <description>&lt;h1 id=&#34;bootstrap-carousel&#34;&gt;Bootstrap Carousel&lt;/h1&gt;&#xA;&lt;p&gt;A slideshow component for cycling through elements—images or slides of text — like a carousel.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;See &lt;a href=&#34;https://getbootstrap.com/docs/5.3/components/carousel/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Carousel documentation&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

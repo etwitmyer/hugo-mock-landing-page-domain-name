@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ConexUs: Smart Contact Manager</title>
-    <link>https://etwitmyer.github.io/hugo-mock-landing-page/post/</link>
-    <description>Recent content in Posts on ConexUs: Smart Contact Manager</description>
+    <title>Posts on EmailGPT</title>
+    <link>https://etwitmyer.github.io/EmailGPT-Page/post/</link>
+    <description>Recent content in Posts on EmailGPT</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Emma Twitmyer</copyright>
-    <atom:link href="https://etwitmyer.github.io/hugo-mock-landing-page/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etwitmyer.github.io/EmailGPT-Page/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://etwitmyer.github.io/hugo-mock-landing-page/post/about/</link>
-      <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://etwitmyer.github.io/hugo-mock-landing-page/post/about/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-conexus-&#34;&gt;Welcome to ConexUs 👥✨&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your smart contact management solution&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-is-conexus&#34;&gt;🚀 What is ConexUs?&lt;/h2&gt;&#xA;&lt;p&gt;ConexUs is a modern, AI-powered &lt;strong&gt;contact management tool&lt;/strong&gt; designed to help individuals and professionals stay effortlessly connected. It helps you:&lt;/p&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Track and manage relationships&lt;/strong&gt; with automatic reminders&lt;br&gt;&#xA;✅ &lt;strong&gt;Prepare for meetings&lt;/strong&gt; with AI-generated conversation summaries&lt;br&gt;&#xA;✅ &lt;strong&gt;Convert voice memos into notes&lt;/strong&gt; instantly&lt;br&gt;&#xA;✅ &lt;strong&gt;Sync contacts across devices&lt;/strong&gt; and calendars seamlessly&lt;/p&gt;&#xA;&lt;p&gt;With ConexUs, you’ll never lose touch with the people who matter most.&lt;/p&gt;</description>
+      <link>https://etwitmyer.github.io/EmailGPT-Page/post/about/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0100</pubDate>
+      <guid>https://etwitmyer.github.io/EmailGPT-Page/post/about/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-emailgpt-&#34;&gt;Welcome to EmailGPT 📬✨&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Your smart assistant for managing complex email threads&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;-what-is-emailgpt&#34;&gt;🚀 What is EmailGPT?&lt;/h2&gt;&#xA;&lt;p&gt;EmailGPT is a Chrome Extension that &lt;strong&gt;summarizes, organizes, and enhances Gmail threads&lt;/strong&gt; to help users manage overwhelming email chains. It helps you:&lt;/p&gt;&#xA;&lt;p&gt;✅ &lt;strong&gt;Summarize entire conversations&lt;/strong&gt; into concise highlights&lt;br&gt;&#xA;✅ &lt;strong&gt;Break down&lt;/strong&gt; each message with repetitive content filtered out&lt;br&gt;&#xA;✅ &lt;strong&gt;Highlight action items and requests&lt;/strong&gt; automatically&lt;br&gt;&#xA;✅ &lt;strong&gt;Suggest smart replies&lt;/strong&gt; using AI integration&lt;/p&gt;&#xA;&lt;p&gt;Stay informed, make decisions faster, and reply with confidence — all within Gmail.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

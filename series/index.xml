@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on ConexUs: Smart Contact Manager</title>
-    <link>https://etwitmyer.github.io/hugo-mock-landing-page/series/</link>
-    <description>Recent content in Series on ConexUs: Smart Contact Manager</description>
+    <title>Series on EmailGPT</title>
+    <link>https://etwitmyer.github.io/EmailGPT-Page/series/</link>
+    <description>Recent content in Series on EmailGPT</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>Emma Twitmyer</copyright>
-    <atom:link href="https://etwitmyer.github.io/hugo-mock-landing-page/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://etwitmyer.github.io/EmailGPT-Page/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
